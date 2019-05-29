@@ -1,0 +1,17 @@
+{
+    "name": "akansh/amazon",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akansh",
+            "email": "akansh@primesellerhub.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MarketplaceWebService\\": "src/MarketplaceWebService/"
+        }
+    },
+    "require": {}
+}
