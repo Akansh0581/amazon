@@ -19,7 +19,6 @@
 /**
  *  @see MarketplaceWebService_Interface
  */
-namespace  MarketplaceWebService\Client;
 
 require_once ('MarketplaceWebService/Interface.php');
 require_once ('RequestType.php');

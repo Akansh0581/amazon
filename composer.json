@@ -13,5 +13,6 @@
             "MarketplaceWebService\\": "src/MarketplaceWebService/"
         }
     },
-    "require": {}
+    "require": {},
+    "description": "Library to Sync Amazon with your system through PHP API"
 }
